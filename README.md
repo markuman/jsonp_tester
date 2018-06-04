@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/jsonp_tester
+bye bye microsoft. please visit https://git.osuv.de/m/jsonp_tester
